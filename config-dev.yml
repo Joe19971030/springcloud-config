@@ -1,1 +1,2 @@
-this is config-dev.yml write by JoeRan
+config:
+ info: this is my configInfo write by JoeRan
